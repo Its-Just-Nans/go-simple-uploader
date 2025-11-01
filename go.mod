@@ -1,4 +1,4 @@
-module example.com/greetings
+module github.com/Its-Just-Nans/go-simple-uploader
 
 go 1.17
 
